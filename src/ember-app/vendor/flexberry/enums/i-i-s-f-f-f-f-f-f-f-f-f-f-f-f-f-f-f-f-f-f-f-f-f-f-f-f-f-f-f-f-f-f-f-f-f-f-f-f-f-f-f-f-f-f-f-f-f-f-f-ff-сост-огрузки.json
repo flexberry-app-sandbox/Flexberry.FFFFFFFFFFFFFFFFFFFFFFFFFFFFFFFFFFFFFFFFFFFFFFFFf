@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFf",
+  "className": "СостОгрузки",
+  "enumObjects": {
+    "Отгруж": "Отгружен",
+    "НеОтгруж": "Не отгружен",
+    "ЧастичОтгруз": "Частично отгружен"
+  }
+}

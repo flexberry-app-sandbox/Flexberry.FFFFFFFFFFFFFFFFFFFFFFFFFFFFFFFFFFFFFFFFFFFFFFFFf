@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-ff-подразеления-e",
+  "editForm": "i-i-s-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-ff-подразеления-e",
+  "external": false,
+  "caption": "Подразеления",
+  "name": "IISFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFfПодразеленияL",
+  "className": "ПодразеленияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-f-ff-подразеления",
+      "modelProjection": "ПодразеленияL"
+    }
+  ]
+}

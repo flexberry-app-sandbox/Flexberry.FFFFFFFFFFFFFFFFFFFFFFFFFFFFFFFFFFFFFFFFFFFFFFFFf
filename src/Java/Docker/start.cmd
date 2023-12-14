@@ -1,0 +1,1 @@
+docker-compose -p fffffffffffffffffffffffffffffffffffffffffffffffff-java up -d

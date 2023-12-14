@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFf",
+  "className": "СостОплаты",
+  "enumObjects": {
+    "ЧастичноОплачен": "Частично оплачен",
+    "НеОплачен": "Не оплачен",
+    "Оплачен": "Оплачен"
+  }
+}
